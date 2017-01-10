@@ -93,6 +93,11 @@ SUBS = %w[
   the_storages
   git@github.com:the-cocoon/the_storages.git
   master
+
+  role_slim_js
+  role_slim_js
+  git@github.com:the-cocoon/role_slim_js.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)

@@ -74,3 +74,7 @@
 	path = the_storages
 	url = git@github.com:the-cocoon/the_storages.git
 	branch = master
+[submodule "role_slim_js"]
+	path = role_slim_js
+	url = git@github.com:the-cocoon/role_slim_js.git
+	branch = master
