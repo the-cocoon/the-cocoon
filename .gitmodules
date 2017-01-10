@@ -10,3 +10,7 @@
 	path = RAILS_SHOP
 	url = git@github.com:the-cocoon/RAILS_SHOP.git
 	branch = master
+[submodule "db_bootstrap"]
+	path = db_bootstrap
+	url = git@github.com:the-cocoon/db_bootstrap.git
+	branch = master
