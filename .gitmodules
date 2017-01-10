@@ -2,3 +2,7 @@
 	path = USER_ROOM
 	url = git@github.com:the-cocoon/USER_ROOM.git
 	branch = master
+[submodule "RAILS_BLOG"]
+	path = RAILS_BLOG
+	url = git@github.com:the-cocoon/RAILS_BLOG.git
+	branch = master

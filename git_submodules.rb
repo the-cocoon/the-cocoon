@@ -3,6 +3,11 @@ SUBS = %w[
 	USER_ROOM
 	git@github.com:the-cocoon/USER_ROOM.git
 	master
+
+	RAILS_BLOG
+	RAILS_BLOG
+	git@github.com:the-cocoon/RAILS_BLOG.git
+	master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)
