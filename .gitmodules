@@ -6,3 +6,7 @@
 	path = RAILS_BLOG
 	url = git@github.com:the-cocoon/RAILS_BLOG.git
 	branch = master
+[submodule "RAILS_SHOP"]
+	path = RAILS_SHOP
+	url = git@github.com:the-cocoon/RAILS_SHOP.git
+	branch = master
