@@ -73,6 +73,11 @@ SUBS = %w[
   the_string_addon
   git@github.com:the-cocoon/the_string_addon.git
   master
+
+  image_tools
+  image_tools
+  git@github.com:the-cocoon/image_tools.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)

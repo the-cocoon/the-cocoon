@@ -58,3 +58,7 @@
 	path = the_string_addon
 	url = git@github.com:the-cocoon/the_string_addon.git
 	branch = master
+[submodule "image_tools"]
+	path = image_tools
+	url = git@github.com:the-cocoon/image_tools.git
+	branch = master
