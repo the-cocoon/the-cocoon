@@ -22,3 +22,7 @@
 	path = jsvoid
 	url = git@github.com:the-cocoon/jsvoid.git
 	branch = master
+[submodule "log_js"]
+	path = log_js
+	url = git@github.com:the-cocoon/log_js.git
+	branch = master

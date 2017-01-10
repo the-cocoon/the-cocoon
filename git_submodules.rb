@@ -28,6 +28,11 @@ SUBS = %w[
   jsvoid
   git@github.com:the-cocoon/jsvoid.git
   master
+
+  log_js
+  log_js
+  git@github.com:the-cocoon/log_js.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)
