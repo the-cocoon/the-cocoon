@@ -18,3 +18,7 @@
 	path = JODY
 	url = git@github.com:the-cocoon/JODY.git
 	branch = master
+[submodule "jsvoid"]
+	path = jsvoid
+	url = git@github.com:the-cocoon/jsvoid.git
+	branch = master

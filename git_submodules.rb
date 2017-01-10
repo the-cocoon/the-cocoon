@@ -23,6 +23,11 @@ SUBS = %w[
   JODY
   git@github.com:the-cocoon/JODY.git
   master
+
+  jsvoid
+  jsvoid
+  git@github.com:the-cocoon/jsvoid.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)
