@@ -38,6 +38,11 @@ SUBS = %w[
   pagination
   git@github.com:the-cocoon/pagination.git
   master
+
+  simple_sort
+  simple_sort
+  git@github.com:the-cocoon/simple_sort
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)

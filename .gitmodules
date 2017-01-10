@@ -30,3 +30,7 @@
 	path = pagination
 	url = git@github.com:the-cocoon/pagination.git
 	branch = master
+[submodule "simple_sort"]
+	path = simple_sort
+	url = git@github.com:the-cocoon/simple_sort
+	branch = master
