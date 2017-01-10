@@ -46,3 +46,7 @@
 	path = has_meta_data
 	url = git@github.com:the-cocoon/has_meta_data.git
 	branch = master
+[submodule "to_slug_param"]
+	path = to_slug_param
+	url = git@github.com:the-cocoon/to_slug_param.git
+	branch = master

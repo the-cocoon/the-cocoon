@@ -58,6 +58,11 @@ SUBS = %w[
   has_meta_data
   git@github.com:the-cocoon/has_meta_data.git
   master
+
+  to_slug_param
+  to_slug_param
+  git@github.com:the-cocoon/to_slug_param.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)
