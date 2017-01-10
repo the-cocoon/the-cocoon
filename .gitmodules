@@ -54,3 +54,7 @@
 	path = friendly_id_pack
 	url = git@github.com:the-cocoon/friendly_id_pack.git
 	branch = master
+[submodule "the_string_addon"]
+	path = the_string_addon
+	url = git@github.com:the-cocoon/the_string_addon.git
+	branch = master

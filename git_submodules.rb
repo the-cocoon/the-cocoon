@@ -63,6 +63,16 @@ SUBS = %w[
   to_slug_param
   git@github.com:the-cocoon/to_slug_param.git
   master
+
+  friendly_id_pack
+  friendly_id_pack
+  git@github.com:the-cocoon/friendly_id_pack.git
+  master
+
+  the_string_addon
+  the_string_addon
+  git@github.com:the-cocoon/the_string_addon.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)
