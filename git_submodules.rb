@@ -18,6 +18,11 @@ SUBS = %w[
   db_bootstrap
   git@github.com:the-cocoon/db_bootstrap.git
   master
+
+  JODY
+  JODY
+  git@github.com:the-cocoon/JODY.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)

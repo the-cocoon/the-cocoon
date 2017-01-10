@@ -14,3 +14,7 @@
 	path = db_bootstrap
 	url = git@github.com:the-cocoon/db_bootstrap.git
 	branch = master
+[submodule "JODY"]
+	path = JODY
+	url = git@github.com:the-cocoon/JODY.git
+	branch = master
