@@ -38,3 +38,7 @@
 	path = notifications
 	url = git@github.com:the-cocoon/notifications
 	branch = master
+[submodule "voiceless"]
+	path = voiceless
+	url = git@github.com:the-cocoon/voiceless
+	branch = master

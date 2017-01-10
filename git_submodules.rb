@@ -48,6 +48,11 @@ SUBS = %w[
   notifications
   git@github.com:the-cocoon/notifications
   master
+
+  voiceless
+  voiceless
+  git@github.com:the-cocoon/voiceless
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)
