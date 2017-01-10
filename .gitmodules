@@ -50,3 +50,7 @@
 	path = to_slug_param
 	url = git@github.com:the-cocoon/to_slug_param.git
 	branch = master
+[submodule "friendly_id_pack"]
+	path = friendly_id_pack
+	url = git@github.com:the-cocoon/friendly_id_pack.git
+	branch = master
