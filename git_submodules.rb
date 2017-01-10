@@ -43,6 +43,11 @@ SUBS = %w[
   simple_sort
   git@github.com:the-cocoon/simple_sort
   master
+
+  notifications
+  notifications
+  git@github.com:the-cocoon/notifications
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)

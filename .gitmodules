@@ -34,3 +34,7 @@
 	path = simple_sort
 	url = git@github.com:the-cocoon/simple_sort
 	branch = master
+[submodule "notifications"]
+	path = notifications
+	url = git@github.com:the-cocoon/notifications
+	branch = master
