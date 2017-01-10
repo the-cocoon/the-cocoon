@@ -53,6 +53,11 @@ SUBS = %w[
   voiceless
   git@github.com:the-cocoon/voiceless
   master
+
+  has_meta_data
+  has_meta_data
+  git@github.com:the-cocoon/has_meta_data.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)

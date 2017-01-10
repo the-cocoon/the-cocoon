@@ -42,3 +42,7 @@
 	path = voiceless
 	url = git@github.com:the-cocoon/voiceless
 	branch = master
+[submodule "has_meta_data"]
+	path = has_meta_data
+	url = git@github.com:the-cocoon/has_meta_data.git
+	branch = master
