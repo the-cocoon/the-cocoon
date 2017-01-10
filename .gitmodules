@@ -62,3 +62,7 @@
 	path = image_tools
 	url = git@github.com:the-cocoon/image_tools.git
 	branch = master
+[submodule "crop_tool"]
+	path = crop_tool
+	url = git@github.com:the-cocoon/crop_tool.git
+	branch = master
