@@ -26,3 +26,7 @@
 	path = log_js
 	url = git@github.com:the-cocoon/log_js.git
 	branch = master
+[submodule "pagination"]
+	path = pagination
+	url = git@github.com:the-cocoon/pagination.git
+	branch = master

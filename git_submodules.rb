@@ -33,6 +33,11 @@ SUBS = %w[
   log_js
   git@github.com:the-cocoon/log_js.git
   master
+
+  pagination
+  pagination
+  git@github.com:the-cocoon/pagination.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)
