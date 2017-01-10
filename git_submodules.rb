@@ -1,4 +1,8 @@
 SUBS = %w[
+	USER_ROOM
+	USER_ROOM
+	git@github.com:the-cocoon/USER_ROOM.git
+	master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)

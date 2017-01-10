@@ -1,0 +1,4 @@
+[submodule "USER_ROOM"]
+	path = USER_ROOM
+	url = git@github.com:the-cocoon/USER_ROOM.git
+	branch = master
