@@ -70,3 +70,7 @@
 	path = attached_images
 	url = git@github.com:the-cocoon/attached_images.git
 	branch = master
+[submodule "the_storages"]
+	path = the_storages
+	url = git@github.com:the-cocoon/the_storages.git
+	branch = master

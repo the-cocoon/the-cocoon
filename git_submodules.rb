@@ -88,6 +88,11 @@ SUBS = %w[
   attached_images
   git@github.com:the-cocoon/attached_images.git
   master
+
+  the_storages
+  the_storages
+  git@github.com:the-cocoon/the_storages.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)
