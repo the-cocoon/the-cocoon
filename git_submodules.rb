@@ -103,6 +103,11 @@ SUBS = %w[
   components
   git@github.com:the-cocoon/components.git
   master
+
+  app_base
+  app_base
+  git@github.com:the-cocoon/app_base.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)

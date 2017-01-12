@@ -82,3 +82,7 @@
 	path = components
 	url = git@github.com:the-cocoon/components.git
 	branch = master
+[submodule "app_base"]
+	path = app_base
+	url = git@github.com:the-cocoon/app_base.git
+	branch = master
